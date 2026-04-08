@@ -1,6 +1,6 @@
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="banner" width="100%" />
+  <img src="https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fpng&attachment_token=AOo0EEXh3qCbzwFZcDqMwKjRNgujwRGsohOqTtUlSTjfq%2FQboHr49YOdQh9OM%2FSSecf%2BOqPLC2C5Sga2Z3elzRmGJhp5gSxk%2BLw259Jqx7AfTP44zVzIu0u9uS7bZ4lXn6XVurBuqi6OUUnk%2Ba7KomjccQNNLQjDQ4M1eZWNMjqu2DV7NIRjKw%2BSjUbl95nPPq2BZk5zzGRhYMiDbdFHuEcQrHzZj6t7NOxmPH2CE6lzGuBfpWVcU%2Fm2a1Ex9FF%2FS1ekIsCmFFdYWTwVyTCDPSgOhnJuM%2BJxNctVg2Vwl08%2FLRCm4%2FcDaKIi9WaHMYXvxIT2xHGw9G%2BAm%2F6gbT%2FN8wRpXRUMPglQObJWbcfdds3oSl0j%2B%2Fz%2BfZUXgUvf1IKKuyq%2FiKSX71NgQcIk9i3StnEU%2BIgNPj6pFBgG%2Bun9aJ%2Fc5zPPwpB9drDSz7DkIkuSgmjxGEO5492OkKMGA8Rxc0zZZ72PljA2oaXhijm%2BhDCjdtoVNkcNHHLmrVksNHi5WkSnFe%2FA7su%2BN%2BXSe%2BtHtq%2BqM1A1vhSgH6qlQRQediBGWcgdrMb24Gdjc8K50yaYrqwy%2BQ%2Bh1QevZcBEEkOZR9c%3D&allow_caching=true&sz=s330-c" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">👨‍💻 Gaurav Shrimali</h1>
@@ -39,7 +39,7 @@ ISTQB-certified **Quality Assurance Engineer** with 2+ years of experience in **
 </td>
 
 <td width="40%">
-<img src="YOUR_ABOUT_IMAGE_LINK_HERE" width="100%" />
+<img src="https://camo.githubusercontent.com/7a6ca55c35d728fde32d0fe5dee3615a7bfcde2899f00ddcf9fb88fb1813955a/68747470733a2f2f63646e2e73686f706966792e636f6d2f732f66696c65732f312f303537382f333639362f313939372f742f392f6173736574732f6c6f6669626f792e6769663f763d313033343631373635323137383935383335303531363830373032323739" width="100%" />
 </td>
 
 </tr>
