@@ -1,18 +1,149 @@
-# 💫 About Me:
-Quality Analyst<br>ISTQB-certified QA Engineer with 2 years’ experience in<br>manual, API, and performance testing for web and<br>mobile. Proficient in JIRA, Mentis, Postman, and JMeter,<br>with strong Agile, bug-tracking, and documentation<br>skills. Combines technical precision with creative<br>problem-solving to enhance user experience across<br>multilingual, cross-platform environments.
+<h1 align="center">👨‍💻 Gaurav Shrimali</h1>
+<h3 align="center">🧪 Quality Analyst | ISTQB Certified QA Engineer</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gaurav-shrimali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gauravshrimali131094@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gauravshrimali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gauravshrimali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravshrimali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/gaurav-shrimali">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:gauravshrimali131094@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gauravshrimali&label=Profile%20views&color=blue&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gauravshrimali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 Professional Summary
+
+ISTQB-certified **Quality Assurance Engineer** with 2+ years of experience in **Manual Testing, API Testing, and Performance Testing** across web and mobile applications.
+
+✔ Strong expertise in **test case design, defect tracking, and Agile QA processes**  
+✔ Hands-on with tools like **Postman, JMeter, JIRA, Selenium, Playwright**  
+✔ Focused on delivering **high-quality, scalable, and user-centric applications**
+
+---
+
+## 🧪 QA Expertise
+
+- Functional Testing  
+- Regression Testing  
+- Integration Testing  
+- System Testing  
+- API Testing (Postman)  
+- Performance Testing (JMeter)  
+- Cross-Browser & Cross-Platform Testing  
+- Usability Testing  
+- End-to-End Testing  
+- Defect Lifecycle Management  
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 🔹 Testing Tools
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
+### 🔹 Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+### 🔹 Tools
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress)
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Quality Analyst — iSageBrum Technologies Pvt Ltd  
+📅 2024 – Present  
+
+- Designed & executed **100+ test cases** for web & mobile applications  
+- Performed **API testing using Postman** and **performance testing using JMeter**  
+- Identified and reported **critical bugs**, improving product quality significantly  
+- Managed defect lifecycle using **JIRA & Mentis**  
+- Created **test plans, regression suites, and QA documentation**  
+- Collaborated with developers to ensure **faster and smoother releases**  
+- Actively contributed in **Agile sprints and QA improvements**
+
+---
+
+### 🏢 QA Intern — iSageBrum Technologies Pvt Ltd  
+📅 Jan 2024 – June 2024  
+
+- Worked on **real-time web applications using PHP, HTML, CSS, JavaScript**  
+- Gained hands-on experience in **WordPress & MySQL**  
+- Learned **SDLC, STLC, and QA methodologies**
+
+---
+
+## 🏆 Certifications
+
+- ✅ ISTQB Certified Tester – Foundation Level  
+- ✅ Postman API Fundamentals Student Expert  
+- ✅ TCS iON Career Edge – IT Preparedness  
+
+---
+
+## 🌍 Domain Experience
+
+- 🛒 E-Commerce  
+- 🚚 Logistics  
+- 🎓 Education  
+- 🏢 Enterprise / HR Systems  
+- 🚗 Automotive  
+- 🌐 Social Networking  
+
+---
+
+## 🧠 Soft Skills
+
+✔ Test Planning & Execution  
+✔ Agile Methodologies  
+✔ Defect Analysis  
+✔ Communication & Collaboration  
+✔ Quality Assurance Process Improvement  
+
+---
+
+## 🚀 Achievements
+
+- 🔹 Improved defect detection efficiency through structured testing  
+- 🔹 Reduced production issues by strengthening regression testing  
+- 🔹 Contributed to improving QA processes in Agile environment  
+
+---
+
+## 🎯 Current Focus
+
+- 🔸 Automation Testing (Selenium & Playwright)  
+- 🔸 Advanced API Testing  
+- 🔸 Performance Optimization  
+- 🔸 Building scalable QA frameworks  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravshrimali&show_icons=true&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gauravshrimali&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Languages
+
+Hindi | English | Rajasthani | Punjabi  
+
+---
+
+⭐️ *"Quality is not an act, it is a habit."*
