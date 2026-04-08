@@ -1,3 +1,8 @@
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">👨‍💻 Gaurav Shrimali</h1>
 <h3 align="center">🧪 Quality Analyst | ISTQB Certified QA Engineer</h3>
 
@@ -14,12 +19,31 @@
 ---
 
 ## 💫 Professional Summary
+<table>
+<tr>
+<td width="60%">
 
 ISTQB-certified **Quality Assurance Engineer** with 2+ years of experience in **Manual Testing, API Testing, and Performance Testing** across web and mobile applications.
 
 ✔ Strong expertise in **test case design, defect tracking, and Agile QA processes**  
 ✔ Hands-on with tools like **Postman, JMeter, JIRA, Selenium, Playwright**  
 ✔ Focused on delivering **high-quality, scalable, and user-centric applications**
+
+💡 I focus on delivering:
+- High-quality applications  
+- Seamless user experience  
+- Strong defect-free releases  
+
+🚀 Currently growing in **Automation Testing (Selenium & Playwright)**
+
+</td>
+
+<td width="40%">
+<img src="YOUR_ABOUT_IMAGE_LINK_HERE" width="100%" />
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -87,11 +111,24 @@ ISTQB-certified **Quality Assurance Engineer** with 2+ years of experience in **
 
 ## 🏆 Certifications
 
-- ✅ ISTQB Certified Tester – Foundation Level  
-- ✅ Postman API Fundamentals Student Expert  
-- ✅ TCS iON Career Edge – IT Preparedness  
+<p align="center">
+
+<!-- ISTQB -->
+<img src="https://img.shields.io/badge/ISTQB-Certified-blue?style=for-the-badge&logo=checkmarx" />
+
+<!-- Postman -->
+<img src="https://img.shields.io/badge/Postman-API%20Expert-orange?style=for-the-badge&logo=postman" />
+
+<!-- TCS -->
+<img src="https://img.shields.io/badge/TCS%20iON-Certified-purple?style=for-the-badge" />
+
+<!-- Yuva AI -->
+<img src="https://img.shields.io/badge/Yuva%20AI-Certified-green?style=for-the-badge&logo=google" />
+
+</p>
 
 ---
+
 
 ## 🌍 Domain Experience
 
@@ -118,7 +155,7 @@ ISTQB-certified **Quality Assurance Engineer** with 2+ years of experience in **
 
 - 🔹 Improved defect detection efficiency through structured testing  
 - 🔹 Reduced production issues by strengthening regression testing  
-- 🔹 Contributed to improving QA processes in Agile environment  
+- 🔹 Contributed to improving QA processes in an Agile environment  
 
 ---
 
